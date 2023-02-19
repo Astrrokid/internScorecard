@@ -11,7 +11,6 @@ function Table({ internsdetails }) {
     <div>
       <div className="container">
         <h1 className="text-center mt-3">Interns Scoreboard</h1>
-        <p className=" text">Click on Intern's name to get intern's full data. </p>
         <table className="table">
           <thead>
             <tr>
